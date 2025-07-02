@@ -1,2 +1,2 @@
-git+git://github.com/dptech-corp/Uni-Core.git@stable#egg=Uni-Core
+git+https://github.com/dptech-corp/Uni-Core.git@0.0.3#egg=unicore
 rdkit-pypi==2022.9.5
